@@ -9,7 +9,7 @@ import org.junit.Test;
 
 
 public class CarTest {
-	private int dog;
+
 	private int expectedWheels;
 	private Car myCar;
 	//全部的測試案例執行前，執行beforeclass 前置作業
